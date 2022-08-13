@@ -1,0 +1,8 @@
+Influx: True
+InfluxURL: "http://127.0.0.1:8086"
+InfluxAPIToken: "influx-api-token"
+InfluxOrgName: "my_influx_org"
+InfluxBucketName: "some_bucket"
+InfluxSkipTLS: False
+RGAAddr: "192.168.0.77:10014"
+PollingInterval: 15 # a time in seconds. Minimum: 15 seconds
